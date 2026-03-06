@@ -1,6 +1,6 @@
-# 💻 欢迎来到 [landray2] 的 GitHub 主页
+# 💻 Hi，I'm landray2.Welcom to My Homepage
 
-<!-- 明日香像素图或图标（你可以换成自己喜欢的图片链接） -->
+<!-- https://tse4-mm.cn.bing.net/th/id/OIP-C.Q5N_YKt-UZRCkrnJ8U4YtgHaHZ?w=172&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3 -->
 <p align="center">
   < img src="https://i.imgur.com/6Xk7R3l.gif" alt="Asuka" width="200"/>
 </p >
@@ -14,14 +14,14 @@
 
 ---
 
-## 👋 自我介绍
+## 👋 
 
-- 🔭 目前正在研究 
-- 🌱 日常使用的编程语言：C++ / CUDA / Python / JavaScript
-- 💖 **二次元浓度**：超级喜欢《EVA》里的**明日香**！傲娇+红色发箍简直完美！
-- ⛸️ **花样滑冰**爱好者，最喜欢看选手在冰上旋转跳跃
-- 👘 对**水手服**没有抵抗力，无论是动漫里还是现实中都觉得好可爱
-- 📫 如何联系我：[你的邮箱]
+- 🔭 Istj,Everying must be executed according to the plan.
+- 🌱 日常使用的编程语言：C++ / Java / Python / JavaScript/R
+- 💖 **二次元浓度**：超级喜欢《EVA》里的**明日香**！Has no resistance to double ponytails.
+- ⛸️ **花样滑冰**爱好者，最喜欢Alexandra Vyacheslavovna Trusova.
+- 👘 对**水手服**没有抵抗力.
+- 📫 如何联系我：[253749874@qq.com]
 
 > “Anta baka?” —— 明日香
 
@@ -35,37 +35,34 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
+### Java 生态框架
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/-MyBatis-000000?style=flat&logo=mybatis&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ## 📊 GitHub 统计
 
 <p align="center">
-  < img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical" alt="GitHub Stats" />
-  < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" alt="Top Langs" />
+  < img src="https://github-readme-stats.vercel.app/api?username=landray2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=landray2&layout=compact&theme=radical" alt="Top Langs" />
 </p >
 
 ---
 
-## ✨ 我的爱好一角
+## ✨ 最近在做什么
 
-- 🎮 最近在玩：EVA 相关游戏、冰上舞蹈游戏
-- 📺 正在补番：经典老番 + 花样滑冰主题动画（比如《冰上的尤里》）
-- 🎵 歌单循环：EVA 主题曲、花样滑冰比赛常用配乐
-- 📸 收集：明日香的周边、水手服插图
-
----
-
-## 📌 置顶项目
-
-（下面会自动展示你置顶的 6 个仓库，你也可以手动编辑）
+- 🎮 最近在玩：King of honor,Game for peace.
+- 📸 新的想法：A venomous snake detection system.
 
 ---
 
 ## 🌐 找到我
 
-[![Blog](https://img.shields.io/badge/-个人博客-FF4088?style=flat&logo=jekyll&logoColor=white)](https://你的博客链接)
-[![Bilibili](https://img.shields.io/badge/-B站-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/你的ID)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/你的ID)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:你的邮箱)
+[![Bilibili](https://img.shields.io/badge/-B站-00A1D6?style=flat&logo=bilibili&logoColor=white)](https://space.bilibili.com/王孙可留春芳)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:253749874@qq.com)
 
 ---
 
