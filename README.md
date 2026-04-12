@@ -35,12 +35,7 @@
 ![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ## 📊 GitHub 统计
 
-<p align="center">
-  < img src="https://github-readme-stats.vercel.app/api?username=landray2&show_icons=true&theme=radical" alt="GitHub Stats" />
-  < img src="https://github-readme-stats.vercel.app/api/top-langs/?username=landray2&layout=compact&theme=radical" alt="Top Langs" />
-</p >
 
----
 
 ## ✨ 最近在做什么
 
