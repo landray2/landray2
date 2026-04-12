@@ -1,16 +1,6 @@
 # 💻 Hi，I'm landray2.Welcom to My Homepage
 
-<!-- https://tse4-mm.cn.bing.net/th/id/OIP-C.Q5N_YKt-UZRCkrnJ8U4YtgHaHZ?w=172&h=180&c=7&r=0&o=7&dpr=2&pid=1.7&rm=3 -->
-<p align="center">
-  < img src="https://i.imgur.com/6Xk7R3l.gif" alt="Asuka" width="200"/>
-</p >
 
-<p align="center">
-  < img src="https://visitor-badge.glitch.me/badge?page_id=landray2.landray2" alt="访客计数"/>
-  < img src="https://img.shields.io/badge/EVA-明日香-FF6EB4?style=flat&logo=ev" alt="EVA"/>
-  < img src="https://img.shields.io/badge/⛸️-花样滑冰-87CEEB" alt="Figure Skating"/>
-  < img src="https://img.shields.io/badge/👘-水手服-FFB6C1" alt="Sailor Uniform"/>
-</p >
 
 ---
 
