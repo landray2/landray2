@@ -51,9 +51,7 @@
 
 ---
 
-<p align="center">
-  < img src="https://media.giphy.com/media/3o7abB06u9bNzA8LC8/giphy.gif" alt="skating" width="300"/>
-</p >
+
 
 <p align="center">
   ⛸️ 感谢来访！记得在冰上也要保持优雅哦~ ⛸️
