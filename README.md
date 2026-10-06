@@ -46,6 +46,9 @@
 
 - 🎮 最近在玩：King of honor, Game for peace.
 - 📸 新的想法：A venomous snake detection system.
+- 一个可以打包迁移ai交互全部上下文的方案
+- 面向背带裙/背带裤的结构感知ai试衣方法
+- 如何去构建一个可以感知所有物理规律的世界模型
 
 ---
 
