@@ -7,7 +7,7 @@
 - 🔭 ISTJ，Everything must be executed according to the plan.
 - 🌱 日常使用的编程语言：C++ / Java / Python / JavaScript / R
 - 💖 **二次元浓度**：超级喜欢《EVA》里的**明日香**！Has no resistance to double ponytails.
-- ⛸️ **花样滑冰**爱好者，最喜欢 Alexandra Vyacheslavovna Trusova.
+- ⛸️ **花样滑冰**爱好者，T10086花样滑冰运动员，最喜欢 Alexandra Vyacheslavovna Trusova.
 - 👘 对**水手服**没有抵抗力.
 - 📫 如何联系我：[253749874@qq.com](mailto:253749874@qq.com)
 
